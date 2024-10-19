@@ -1,12 +1,33 @@
 <h1 align="center">Hi This is Dory Yang</h1>
 <h3 align="center">Software Developer with 4 years Experience</h3>
 
-- 📫 How to reach me **doryangwork@gmail.com**
+📫 **How to reach me**: 
+ - [doryangwork@gmail.com](mailto:doryangwork@gmail.com)
+ - 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/doryang1019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/doryang1019" height="30" width="40" /></a>
 </p>
+
+🔧 **Key Strengths:**
+- Microservices & API development
+- Cloud & DevOps: Azure, GCP, AWS
+- Frontend & Backend expertise: Django, React, Node.js, Vue.js
+- Containerization: Docker, Kubernetes
+- ETL pipelines & Data Analytics
+
+🌟 **Current Projects:**
+- [NASA 2024 App Challenge – ASTROMIND](https://github.com/doryang1019/NASA-Space-App-2024): A web app built with Node.js, React.js, and Kubernetes that introduces users to exoplanets through interactive mind maps and quizzes.
+- [Course Map](https://github.com/doryang1019/course-tracking-system-backend): A Django-based course tracking system for managing student enrollments, progress tracking, and prerequisite architectures.
+
+💼 **Work Experience:**
+- **Student Assistant @ Douglas College (2024 - Present)**: Helping students excel in C#, Java, and computer networking concepts.
+- **Software Engineer @ Wistron (2020 - 2023)**: Led projects on API design in both Spring Boot & Node.JS, microservices architecture, and cloud deployment with Kubernetes and Azure.
+- **Backend Engineer @ Intelligence Cloud Plus(2024 - Present)**: Developed a data analytics service for Taiwan Power using ASP.NET(C#), MongoDB and Grafana for visualization
+
+
 
 <h3 align="left">Programming Language</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
