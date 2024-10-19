@@ -3,7 +3,7 @@
 
 📫 **How to reach me**: 
  - [doryangwork@gmail.com](mailto:doryangwork@gmail.com)
- - 
+ - [linkedIn](https://linkedin.com/in/www.linkedin.com/in/doryang1019)
 
 
 <h3 align="left">Connect with me:</h3>
