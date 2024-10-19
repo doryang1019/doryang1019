@@ -5,16 +5,10 @@
  - [doryangwork@gmail.com](mailto:doryangwork@gmail.com)
  - [linkedIn](https://linkedin.com/in/www.linkedin.com/in/doryang1019)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/doryang1019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/doryang1019" height="30" width="40" /></a>
-</p>
-
 🔧 **Key Strengths:**
 - Microservices & API development
 - Cloud & DevOps: Azure, GCP, AWS
-- Frontend & Backend expertise: Django, React, Node.js, Vue.js
+- Frontend & Backend expertise: SpingBoot, Node.js, Django, ASP.Net, React, Vue.js
 - Containerization: Docker, Kubernetes
 - ETL pipelines & Data Analytics
 
