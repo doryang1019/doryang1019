@@ -1,5 +1,5 @@
 <h1 align="center">Hi This is Dory Yang</h1>
-<h3 align="center">Software Developer with 4 years Experience</h3>
+<h3 align="center">Software Developer | 4 Years of Experience | Backend & Cloud Enthusiast</h3>
 
 📫 **How to reach me**: 
  - [doryangwork@gmail.com](mailto:doryangwork@gmail.com)
@@ -12,7 +12,7 @@
 - Containerization: Docker, Kubernetes
 - ETL pipelines & Data Analytics
 
-🌟 **Current Projects:**
+🌟 **Featured Projects:**
 - [NASA 2024 App Challenge – ASTROMIND](https://github.com/doryang1019/NASA-Space-App-2024): A web app built with Node.js, React.js, and Kubernetes that introduces users to exoplanets through interactive mind maps and quizzes.
 - [Course Map](https://github.com/doryang1019/course-tracking-system-backend): A Django-based course tracking system for managing student enrollments, progress tracking, and prerequisite architectures.
 
