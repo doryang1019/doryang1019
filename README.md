@@ -59,3 +59,5 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=doryang1019&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doryang1019&size_weight=1&count_weight=0.5)
