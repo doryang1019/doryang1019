@@ -3,7 +3,7 @@
 
 📫 **How to reach me**: 
  - [doryangwork@gmail.com](mailto:doryangwork@gmail.com)
- - [linkedIn](https://linkedin.com/in/www.linkedin.com/in/doryang1019)
+ - [linkedIn](https://www.linkedin.com/in/doryang1019)
 
 🔧 **Key Strengths:**
 - Microservices & API development
